@@ -10,9 +10,7 @@
 
 ---
 
-## スクリーンショット
-
-> 下記の画像パスは、あなたのスクリーンショットに差し替えてください（例：`docs/images/` 配下）。
+## ダッシュボード
 
 - トップ画面  
   ![トップ画面](docs/images/top.png)
@@ -72,8 +70,7 @@ pip install -r requirements.txt
 python dash_app_final.py
 ```
 
-コンソールに表示される URL（例：`http://127.0.0.1:8050`）をブラウザで開いてください。  
-※ 8050 番ポートが使えない場合は、スクリプト末尾の `app.run(..., port=8051)` のようにポートを変更できます。
+コンソールに表示される URL（例：`http://127.0.0.1:8050`）をブラウザで開いてください。
 
 ---
 
@@ -112,10 +109,10 @@ python dash_app_final.py
 左側に**操作パネル**、右側に**地図・ヒストグラム・公園カード**が並びます。  
 操作パネルでは、対象を絞り込んだり、表示内容を切り替えたりできます。
 
-![全体レイアウト](docs/images/usage_overview.png)
+![全体レイアウト](docs/images/top.png)
 
 ### 2) 左側パネル（操作一覧）
-![左パネル](docs/images/usage_controls.png)
+![左パネル](docs/images/usage_control.png)
 
 - **フィルター**
   - **病害区分**：両方 / マツ枯れ対象 / ナラ枯れ対象
@@ -143,7 +140,7 @@ python dash_app_final.py
 
 点の密集と大きなバブルが重なるエリアほど、優先的な確認・対策が必要な可能性が高いと判断できます。
 
-![地図の見方](docs/images/usage_map.png)
+![地図の見方(例：練馬区)](docs/images/usage_map_nerima.png)
 
 ### 4) 幹周・樹高の分布（ヒストグラム）
 - 幹周（cm）の分布は、**しきい値の破線**で「太い木」の目安を可視化  
@@ -161,7 +158,7 @@ python dash_app_final.py
 - 総合の一人当たり面積  
 - 総合の面積割合
 
-![公園カード](docs/images/usage_parks.png)
+![公園カード](docs/images/parks.png)
 
 > 使い方の例：  
 > 1) 地図で「点の密集」＋「大きなバブル」が重なる自治体を確認  
