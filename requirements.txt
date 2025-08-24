@@ -1,0 +1,21 @@
+# ダッシュボード本体
+dash==3.2.0
+plotly==6.3.0
+pandas==2.3.0
+
+# dash の主要依存
+Flask==3.1.1
+Werkzeug==3.1.3
+Jinja2==3.1.6
+itsdangerous==2.2.0
+click==8.2.1
+blinker==1.9.0
+
+# pandas の主要依存
+numpy==2.3.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+
+# plotly（環境に含まれている依存）
+retrying==1.4.2
