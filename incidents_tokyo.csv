@@ -1,0 +1,19 @@
+disease,year,date,ward_city,location_name,species,count_estimate,source_publisher,source_title,source_url,notes
+ナラ枯れ,2019,2019-08,世田谷区,砧公園,コナラ ほか,,東京都建設局,ナラ枯れによって都立公園の樹林はどのように変化したのか,https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000069790,令和元年8月、砧公園ほか複数の都立公園でコナラ大量枯死を確認（ナラ枯れと判明）。
+ナラ枯れ,2024,2024-06-27,世田谷区,砧公園,コナラ ほか,,東京都公園協会,2024年度 砧公園ナラ枯れ被害樹木など処理委託（入札経過調書）,https://www.tokyo-park.or.jp/association/assets/keikachousho_20240627.pdf,ナラ枯れ被害樹木等の処理委託案件の記録。
+ナラ枯れ,2019,2019-08-06,港区,国立科学博物館 附属自然教育園,コナラ,被害木複数,国立科学博物館,自然教育園におけるナラ枯れの発生,https://www.kahaku.go.jp/research/publication/meguro/download/52/ns-r-52_6_p37-44.pdf,2019年8–11月に被害状況調査。
+ナラ枯れ,2022,2022-10,港区,国立科学博物館 附属自然教育園,"コナラ, スダジイ",穿孔ありコナラ9本など,国立科学博物館,自然教育園におけるナラ枯れの発生（第四報）,https://www.kahaku.go.jp/research/publication/meguro/download/55/ns-r-55_03_p15-20.pdf,2022年10–11月の調査報告。
+ナラ枯れ,2022,2022-08,練馬区,武蔵学園構内 林地,コナラ等,枯死木1本ほか,武蔵学園（大学附属中高）,武蔵学園構内におけるナラ枯れ報告（2022年度）,https://repository.musashi.ac.jp/dspace/bitstream/11149/2512/1/ko_chu_kiyo07_003_030_shirai_akiba%28iwabuchi%29.pdf,カシノナガキクイムシによる被害を構内で確認。
+ナラ枯れ,2023,2023,練馬区,武蔵学園構内 林地,ブナ科5種,,武蔵学園（大学附属中高）,武蔵学園構内におけるナラ枯れ報告（2023年度）,https://repository.musashi.ac.jp/dspace/bitstream/11149/2769/1/ko_chu_kiyo08_003_035_akiba%28iwabuchi%29_shirai.pdf,構内全域に広がり穿入率が増加。
+ナラ枯れ,2024,2024-12-20,八王子市,都立小峰公園,コナラ等,,東京都公園協会,都立小峰公園 園路一部通行止めのお知らせ,https://www.tokyo-park.or.jp/park/komine/news/info/2024/hachijo_info_9.html,ナラ枯れに伴う通行止。
+ナラ枯れ,2025,2025-06-28,八王子市,都立小峰公園,コナラ等,,東京都公園協会,6月の見どころ（28日）「雨上がりの小峰のようす」,https://www.tokyo-park.or.jp/park/komine/news/nature/2025/7_13.html,ナラ枯れに伴う園路通行止の継続案内。
+ナラ枯れ,2025,2025-03-17,渋谷区,代々木公園 ドッグラン,ブナ科高木（園内）,,東京都公園協会,ドッグラン利用不可日のお知らせ（ナラ枯れ伐採）,https://www.tokyo-park.or.jp/park/yoyogi/news/2025/nbsp_1_19_nbsp.html,ナラ枯れ伐採のため一時閉鎖。
+ナラ枯れ,2020,2020-08,多摩市,市内公園・街路樹（広域）,ナラ類等,,多摩市,ナラ枯れ(樹木の枯れ)被害について,https://www.city.tama.lg.jp/kurashi/kankyo/seibutsu/1002376.html,令和2年8月頃から発生確認の記述。
+ナラ枯れ,2025,2025-02-13,町田市,都立小山内裏公園,"コナラ, クヌギ",植栽・更新対応,東京都公園協会,南大沢小学校6年生のどんぐり植栽体験（ナラ枯れ衰退林の更新）,https://www.tokyo-park.or.jp/park/oyamadairi/news/2025/6_2_13.html,ナラ枯れで衰退した雑木林への苗植栽の取組。
+マツ枯れ,2025,2025-03-27,調布市,神代植物公園,アカマツ等,園内マツ74本に樹幹注入,東京都公園協会,令和6年度事業報告書（神代植物公園のマツ枯れ対策）,https://www.tokyo-park.or.jp/association/assets/r6_jigyouhoukoku.pdf,多摩地域でマツ枯れ多発を受け、園内全マツに予防薬剤樹幹注入。
+マツ枯れ,2025,2025-02-27,青梅市,青梅の森,アカマツ,樹幹注入 91本,青梅市,青梅の森において外来植物および外来生物の駆除を行いました（松枯れ対策記載）,https://www.city.ome.tokyo.jp/soshiki/24/67819.html,マツノザイセンチュウ対策として樹幹注入と枯損木伐採を実施。
+マツ枯れ,2023,2023,奥多摩町,町内森林（広域）,アカマツ等,,奥多摩町,奥多摩町森林整備計画（松くい虫対策記載）,https://www.town.okutama.tokyo.jp/material/files/group/8/shinrinseibikeikaku.pdf,マツクイムシ被害への対策と転換等を記載。
+マツ枯れ,2022,2022,日の出町,町内森林（広域）,アカマツ等,,日の出町,日の出町森林整備計画（松くい虫対策記載）,https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3137/1.pdf,松くい虫対策、被害地の更新・抵抗性マツ導入などを記載。
+マツ枯れ・ナラ枯れ,2025,2025-03-27,清瀬市,植物多様性センター（連携団体の活動記録）,アカマツ/ブナ科,,東京都公園協会（植物多様性センター資料）,清瀬の自然を守る会 活動概要（マツ枯れ・ナラ枯れ実態調査報告）,https://www.tokyo-park.or.jp/park/shokubutsutayosei-center/assets/25kiyosenoshizenwomamorukai.pdf,市民団体の実態調査報告の記載。
+ナラ枯れ,2022,2022-09-06,新宿区,おとめ山公園 近隣の保護樹木,コナラ,1本枯死・他に穿入,新宿区,新宿区みどりの推進審議会議事録（2022年9月6日）,https://www.city.shinjuku.lg.jp/content/000358385.pdf,ナラ枯れで弱ったコナラに対する対応の記録。
+ナラ枯れ,2024,2024-03-21,練馬区,区内樹林地（広域）,コナラ等,,練馬区,第174回緑化委員会 会議の記録（2024年3月21日）,https://www.city.nerima.tokyo.jp/kusei/kaigi/kaigiroku/kouen/ryokka/kaigiroku/174.files/174-kaigiroku.pdf,ナラ枯れ対策・被害木の更新等に関する発言。
